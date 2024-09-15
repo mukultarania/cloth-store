@@ -24,7 +24,7 @@ function Details() {
 		<div className="h-full bg-slate-50 w-[70%] flex justify-between items-center gap-5 m-auto p-[10%]">
 			<Link
 				to={`/`}
-				className="p-1 px-7 absolute top-1 left-1 text-xs text-center mx-5 mt-5 border rounded text-black border-black text-blue-200"
+				className="p-1 px-7 absolute top-1 left-1 text-xs text-center mx-5 mt-5 border rounded text-black border-black"
 			>
 				Home
 			</Link>
